@@ -1,7 +1,7 @@
 <template>
   <!-- Main Content -->
   <div
-    class="bg-white rounded-lg dark:bg-gray-800 shadow-md p-6 sm:p-8 max-w-4xl mx-auto relative min-h-[calc(100vh-20rem)]"
+    class="bg-white rounded-lg dark:bg-gray-800 shadow-md p-6 sm:p-8 max-w-4xl mx-auto min-h-[calc(100vh-20rem)]"
   >
     <h1
       v-if="!quizStore.quizFinished"
