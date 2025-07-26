@@ -26,13 +26,14 @@
 - **5-minute countdown timer** with automatic quiz submission.
 - **Progress bar** and question counter.
 - **Shuffled answers** on quiz load.
-- Score tracking and final result display.
+- **Score tracking** and final result display.
 
 ### 🌟 Bonus Features
 
 - **Difficulty level** label per question.
-- **Dark mode** toggle in header (managed via global store).
+- **Dark/Light mode** toggle in header (managed via global store).
 - **Export to PDF** of individual question results using `jsPDF`.
+- **Export to Excel** of individual question results using `xlsx`.
 - **Language switcher** for **English** and **Arabic**.
 
 ## 🌍 Live Demo
