@@ -71,7 +71,7 @@
         </p>
         <button
           @click="quizStore.nextQuestion"
-          class="mt-4 px-6 py-2 bg-gray-600 text-white rounded hover:bg-gray-700 transition-colors"
+          class="mt-4 px-6 py-2 bg-gray-600 text-white rounded hover:bg-gray-700 transition-colors cursor-pointer"
         >
           {{ $t("quiz.next") }}
         </button>
@@ -81,6 +81,10 @@
         type="submit"
         :disabled="!quizStore.userAnswers.length"
         class="mt-4 px-6 py-2 bg-gray-600 text-white rounded hover:bg-gray-700 disabled:opacity-50 transition-colors"
+        :class="{
+          'cursor-not-allowed': !quizStore.userAnswers.length,
+          'cursor-pointer': quizStore.userAnswers.length,
+        }"
       >
         {{ $t("quiz.submit") }}
       </button>

@@ -20,9 +20,10 @@
       <div v-else class="flex animate-pulse space-x-4 mt-6">
         <div class="flex-1 space-y-6 py-1">
           <div class="space-y-3">
-            <div class="grid grid-cols-3 gap-4 mb-2">
-              <div class="col-span-2 h-3 rounded bg-gray-200"></div>
+            <div class="grid grid-cols-3 gap-4 mb-5">
+              <div class="col-span-2 h-4 rounded bg-gray-200"></div>
             </div>
+
             <div class="grid grid-cols-3" v-for="i in 4">
               <div class="col-span-1 h-3 rounded bg-gray-200 my-2"></div>
             </div>

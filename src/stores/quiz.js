@@ -70,7 +70,7 @@ export const useQuizStore = defineStore("quiz", () => {
         userAnswers.value = [];
         isAnswered.value = false;
         isLoading.value = false;
-      }, 1000);
+      }, 300);
     } else {
       quizFinished.value = true;
     }
