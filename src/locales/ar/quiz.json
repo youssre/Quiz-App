@@ -1,0 +1,20 @@
+{
+  "title": "تطبيق الاختبار",
+  "next": "التالي",
+  "submit": "إرسال",
+  "restart": "ابدأ من جديد",
+  "finished": "انتهى الاختبار!",
+  "correct": "إجابة صحيحة!",
+  "incorrect": "إجابة خاطئة",
+  "score": "لقد حصلت على {score} من {total}!",
+  "difficulty": "الصعوبة",
+  "timeLeft": "الوقت المتبقي",
+  "selectMultiple": "اختر أكثر من إجابة",
+  "exportPDF": "تصدير إلى PDF",
+  "exportExcel": "تصدير إلى Excel",
+  "language": "اللغة",
+  "lightMode": "الوضع النهاري",
+  "darkMode": "الوضع الليلي",
+  "question": "السؤال",
+  "of": "من"
+}

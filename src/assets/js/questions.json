@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "type": "single",
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correctAnswers": ["Paris"],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "type": "single",
+    "question": "Which company developed the Vue.js framework?",
+    "options": ["Google", "Evan You", "Facebook", "Microsoft"],
+    "correctAnswers": ["Evan You"]
+  },
+  {
+    "id": 3,
+    "type": "multiple",
+    "question": "Which of the following are JavaScript frameworks or libraries?",
+    "options": ["Vue.js", "Laravel", "React", "Django"],
+    "correctAnswers": ["Vue.js", "React"]
+  },
+  {
+    "id": 4,
+    "type": "single",
+    "question": "Which HTML tag is used to create a hyperlink?",
+    "options": ["<link>", "<a>", "<href>", "<url>"],
+    "correctAnswers": ["<a>"]
+  },
+  {
+    "id": 5,
+    "type": "multiple",
+    "question": "Select all valid JavaScript data types.",
+    "options": ["String", "Number", "Float", "Boolean", "Char"],
+    "correctAnswers": ["String", "Number", "Boolean"]
+  },
+  {
+    "id": 6,
+    "type": "single",
+    "question": "What does CSS stand for?",
+    "options": [
+      "Cascading Style Sheets",
+      "Colorful Style Scripts",
+      "Creative Style Syntax",
+      "Compact Style Sheet"
+    ],
+    "correctAnswers": ["Cascading Style Sheets"]
+  },
+  {
+    "id": 7,
+    "type": "single",
+    "question": "Which method is used to parse a JSON string into a JavaScript object?",
+    "options": [
+      "JSON.parse()",
+      "JSON.stringify()",
+      "parseJSON()",
+      "JSON.toObject()"
+    ],
+    "correctAnswers": ["JSON.parse()"]
+  },
+  {
+    "id": 8,
+    "type": "single",
+    "question": "What is the output of `typeof null` in JavaScript?",
+    "options": ["null", "undefined", "object", "string"],
+    "correctAnswers": ["object"]
+  }
+]

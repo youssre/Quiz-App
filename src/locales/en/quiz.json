@@ -1,0 +1,20 @@
+{
+  "title": "Vue Quiz App",
+  "next": "Next",
+  "submit": "Submit",
+  "restart": "Restart Quiz",
+  "finished": "Quiz Finished!",
+  "correct": "Correct!",
+  "incorrect": "Incorrect",
+  "score": "You got {score} out of {total} correct!",
+  "difficulty": "Difficulty",
+  "timeLeft": "Time left",
+  "selectMultiple": "Select more than one answer",
+  "exportPDF": "Export to PDF",
+  "exportExcel": "Export to Excel",
+  "language": "Language",
+  "lightMode": "Light Mode",
+  "darkMode": "Dark Mode",
+  "question": "Question",
+  "of": "of"
+}
