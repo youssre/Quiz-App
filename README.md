@@ -42,4 +42,4 @@
 
 ## ⏱️ Time Spent
 
-**Approximately 4.5 hours** from planning to deployment.
+**Approximately 3.5 - 4 hours** from planning to deployment.
